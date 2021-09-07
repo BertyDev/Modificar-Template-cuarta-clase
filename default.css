@@ -81,7 +81,7 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	background: #FFFFFF url(images/bg01.png) repeat;
+	background: #FFFFFF url(./images/bg01.png) repeat;
 }
 
 .container {
@@ -224,7 +224,7 @@ hr {
 #header-wrapper {
 	overflow: hidden;
 	height: 40rem;
-	background: url('images/portada.jpg') no-repeat top center;
+	background: url('./images/portada.jpg') no-repeat top center;
 	background-size: cover;
 
 }
@@ -236,7 +236,7 @@ hr {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('images/bg01.png');
+	background-image: url('./images/bg01.png');
 	opacity: .1;
 }
 
