@@ -1,5 +1,5 @@
 ## Link GitHub Page
-[Pagina](https://bertydev.github.io/Trabajo-practico-segunda-clase/)
+[Pagina Template](https://bertydev.github.io/Modificar-Template-cuarta-clase/)
 
 # TRABAJO PRÁCTICO 3 - CLASE 4 
 
